@@ -1,10 +1,10 @@
 # 👋 Hola, soy YellowComet
 
-Desarrollador orientado a producto, con foco en TypeScript y experiencia práctica en frontend, Android nativo y automatización/scraping. Me interesa la DX (developer experience), el tipado fuerte y construir MVPs claros que puedan evolucionar.
+Desarrollador orientado a producto, con foco en TypeScript y experiencia práctica en frontend, Android nativo, React y automatización/scraping.
 
-- 🚀 Stack principal: TypeScript, JavaScript, HTML/CSS, Python, Java (Android)
-- 🧪 Prácticas: tipado, testing incremental, CI ligera, documentación de decisiones
-- 📦 Estado de proyectos: varios WIP/Prototipo (con demos o acceso bajo solicitud)
+- 🚀 Stack principal: TypeScript, JavaScript, React, HTML/CSS, Python, Java (Android).
+- 🧪 Prácticas: tipado, testing incremental, CI ligera, documentación de decisiones.
+- 📦 Estado de proyectos: varios WIP/Prototipo (con demos o acceso bajo solicitud).
 
 > Nota: parte del código está en repos privados; puedo compartir mirroring sanitizado, capturas o walkthrough en vídeo si te interesan detalles técnicos.
 
@@ -34,30 +34,30 @@ Desarrollador orientado a producto, con foco en TypeScript y experiencia prácti
   - Enlace: https://github.com/YellowComet/ScraperFutbol
 
 - aws-amplify-web
-  - Tipo: Web con Amplify (experimentos)
+  - Tipo: Web con Amplify
   - Stack: JavaScript (79.4%), SCSS (18.5%), HTML (2.1%)
   - Estado: Prototipo
   - Enfoque: integración rápida de hosting/estilos; base para autenticación y despliegue
   - Enlace: https://github.com/YellowComet/aws-amplify-web
 
 - aws-amplify-art-web
-  - Descripción: “Art Web Rork”
+  - Descripción: Web con Amplify
   - Stack: HTML (91%), CSS (8.4%), JavaScript (0.6%)
   - Estado: Prototipo
   - Enfoque: experimento de UI/estático con estructura simple
   - Enlace: https://github.com/YellowComet/aws-amplify-art-web
 
 - AndroidReservasApp
-  - Descripción: “Aplicacion de Reservas Android”
+  - Descripción: Aplicacion de Reservas Android
   - Stack: Java (100%)
   - Estado: WIP/MVP
-  - Enfoque: app nativa Android enfocada en flujo de reservas
+  - Enfoque: app nativa Android enfocada en flujo de reservas con React
   - Enlace: https://github.com/YellowComet/AndroidReservasApp
 
 - Gouku
-  - Descripción: “Gouku Android APP”
+  - Descripción: Gouku Android APP
   - Stack: Android nativo (detalles por compartir)
-  - Estado: Prototipo
+  - Estado: Publicada en Play Store
   - Enfoque: features móviles y UX nativa
   - Enlace: https://github.com/YellowComet/Gouku
 
@@ -75,26 +75,17 @@ Desarrollador orientado a producto, con foco en TypeScript y experiencia prácti
 | aws-amplify-web            | JavaScript 79.4% • SCSS 18.5% • HTML 2.1%                       |
 | aws-amplify-art-web        | HTML 91% • CSS 8.4% • JavaScript 0.6%                           |
 | AndroidReservasApp         | Java 100%                                                        |
-| Gouku                      | Android nativo (por detallar)                                    |
+| Gouku                      | Android nativo                                                   |
 
 ---
 
 ## 🛠️ Tecnologías y prácticas
 
-- Lenguajes: TypeScript, JavaScript, HTML, CSS/SCSS, Python, PHP, Java (Android)
-- Enfoques: arquitectura modular, tipado fuerte, documentación breve de decisiones
+- Lenguajes: TypeScript, JavaScript, React, HTML, CSS/SCSS, Python, PHP, Java (Android)
 - Herramientas: Git/GitHub, linters/formatters, análisis estático, CI mínima (GitHub Actions)
 - Android: desarrollo nativo en Java, componentes y ciclos de vida
 
 <!-- Añade frameworks concretos que uses (React/Vue/Svelte, Node/Nest, Vite/Webpack, Jest/Vitest/Playwright, etc.) -->
-
----
-
-## 📈 Actividad
-
-> Si gran parte de tu trabajo es privado, activa “Include private contributions on my profile” para reflejar la actividad total.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YellowComet&show_icons=true&hide_title=true)
 
 ---
 
